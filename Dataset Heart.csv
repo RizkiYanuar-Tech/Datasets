@@ -1,0 +1,303 @@
+age,Kategori Usia,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,Kategori Cholesterol,Rata-Rata Tekanan Darah,Rasio_chol_BP,Kategori Rasio,Hyperglycemia,Angina,Kategori Pembuluh Darah,Kategori Tekanan Darah,Kategori Depression,target
+52,Lanjut Usia,1,0,125.0,212.0,0,1,168.0,0,1.0,2,2,3,Borderline high,63.0,1.696,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+53,Lanjut Usia,1,0,140.0,203.0,1,0,155.0,1,3.1,0,0,3,Borderline high,71.55,1.45,Tinggi,Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+70,Lanjut Usia,1,0,145.0,174.0,0,1,125.0,1,2.6,0,0,3,Normal,73.8,1.2,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+61,Lanjut Usia,1,0,148.0,203.0,0,1,161.0,0,0.0,2,1,3,Borderline high,74.0,1.3716216216216217,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+62,Lanjut Usia,0,0,138.0,294.0,1,1,106.0,0,1.9,1,3,2,Tinggi,69.95,2.130434782608696,Tinggi,Terjadi,Tidak Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+58,Lanjut Usia,0,0,100.0,248.0,0,0,122.0,0,1.0,1,0,2,Tinggi,50.5,2.48,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,1
+58,Lanjut Usia,1,0,114.0,318.0,0,2,140.0,0,4.0,0,3,1,Tinggi,59.0,2.789473684210526,Tinggi,Tidak Terjadi,Tidak Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Berat,0
+55,Lanjut Usia,1,0,160.0,289.0,0,0,145.0,1,0.8,1,1,3,Tinggi,80.4,1.80625,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+46,Dewasa,1,0,120.0,249.0,0,0,144.0,0,0.8,2,0,3,Tinggi,60.4,2.075,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,0
+54,Lanjut Usia,1,0,122.0,286.0,0,0,116.0,1,3.2,1,2,2,Tinggi,62.6,2.3442622950819674,Tinggi,Tidak Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+71,Lanjut Usia,0,0,112.0,149.0,0,1,125.0,0,1.6,1,0,2,Normal,56.8,1.3303571428571428,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Sedang,1
+43,Dewasa,0,0,132.0,341.0,1,0,136.0,1,3.0,1,0,3,Tinggi,67.5,2.5833333333333335,Tinggi,Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+34,Muda,0,1,118.0,210.0,0,1,192.0,0,0.7,2,0,2,Borderline high,59.35,1.7796610169491525,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,1
+51,Lanjut Usia,1,0,140.0,298.0,0,1,122.0,1,4.0,1,3,3,Tinggi,72.0,2.1285714285714286,Tinggi,Tidak Terjadi,Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+52,Lanjut Usia,1,0,128.0,204.0,1,1,156.0,1,1.0,1,0,0,Borderline high,64.5,1.59375,Tinggi,Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+51,Lanjut Usia,0,2,140.0,308.0,0,0,142.0,0,1.5,2,1,2,Tinggi,70.75,2.2,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,1
+54,Lanjut Usia,1,0,124.0,266.0,0,0,109.0,1,2.2,1,1,3,Tinggi,63.1,2.1451612903225805,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+50,Lanjut Usia,0,1,120.0,244.0,0,1,162.0,0,1.1,2,0,2,Tinggi,60.55,2.033333333333333,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,1
+58,Lanjut Usia,1,2,140.0,211.0,1,0,165.0,0,0.0,2,0,2,Borderline high,70.0,1.5071428571428571,Tinggi,Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+60,Lanjut Usia,1,2,140.0,185.0,0,0,155.0,0,3.0,1,0,2,Normal,71.5,1.3214285714285714,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+67,Lanjut Usia,0,0,106.0,223.0,0,1,142.0,0,0.3,2,2,2,Borderline high,53.15,2.1037735849056602,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Normal,,1
+45,Dewasa,1,0,104.0,208.0,0,0,148.0,1,3.0,1,0,2,Borderline high,53.5,2.0,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Berat,1
+63,Lanjut Usia,0,2,135.0,252.0,0,0,172.0,0,0.0,2,0,2,Tinggi,67.5,1.8666666666666667,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+42,Dewasa,0,2,120.0,209.0,0,1,173.0,0,0.0,1,0,2,Borderline high,60.0,1.7416666666666667,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+61,Lanjut Usia,0,0,145.0,307.0,0,0,146.0,1,1.0,1,0,3,Tinggi,73.0,2.117241379310345,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+44,Dewasa,1,2,130.0,233.0,0,1,179.0,1,0.4,2,0,2,Borderline high,65.2,1.7923076923076924,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,,1
+58,Lanjut Usia,0,1,136.0,319.0,1,0,152.0,0,0.0,2,2,2,Tinggi,68.0,2.3455882352941178,Tinggi,Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+56,Lanjut Usia,1,2,130.0,256.0,1,0,142.0,1,0.6,1,1,1,Tinggi,65.3,1.9692307692307693,Tinggi,Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+55,Lanjut Usia,0,0,170.0,327.0,0,2,117.0,1,3.4,1,0,2,Tinggi,86.7,1.923529411764706,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+44,Dewasa,1,0,120.0,169.0,0,1,144.0,1,2.8,0,0,1,Normal,61.4,1.4083333333333334,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Sedang,0
+57,Lanjut Usia,1,0,130.0,131.0,0,1,115.0,1,1.2,1,1,3,Normal,65.6,1.0076923076923077,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+70,Lanjut Usia,1,2,160.0,269.0,0,1,112.0,1,2.9,1,1,3,Tinggi,81.45,1.68125,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+50,Lanjut Usia,1,2,129.0,196.0,0,1,163.0,0,0.0,2,0,2,Normal,64.5,1.5193798449612403,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+46,Dewasa,1,2,150.0,231.0,0,1,147.0,0,3.6,1,0,2,Borderline high,76.8,1.54,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+51,Lanjut Usia,1,3,125.0,213.0,0,0,125.0,1,1.4,2,1,2,Borderline high,63.2,1.704,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+59,Lanjut Usia,1,0,138.0,271.0,0,0,182.0,0,0.0,2,0,2,Tinggi,69.0,1.963768115942029,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+64,Lanjut Usia,1,0,128.0,263.0,0,1,105.0,1,0.2,1,1,3,Tinggi,64.1,2.0546875,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,,1
+57,Lanjut Usia,1,2,128.0,229.0,0,0,150.0,0,0.4,1,1,3,Borderline high,64.2,1.7890625,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,,0
+65,Lanjut Usia,0,2,160.0,360.0,0,0,151.0,0,0.8,2,0,2,Tinggi,80.4,2.25,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+54,Lanjut Usia,1,2,120.0,258.0,0,0,147.0,0,0.4,1,0,3,Tinggi,60.2,2.15,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,,1
+61,Lanjut Usia,0,0,130.0,330.0,0,0,169.0,0,0.0,2,0,2,Tinggi,65.0,2.5384615384615383,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+55,Lanjut Usia,0,1,132.0,342.0,0,1,166.0,0,1.2,2,0,2,Tinggi,66.6,2.590909090909091,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+42,Dewasa,1,0,140.0,226.0,0,1,178.0,0,0.0,2,0,2,Borderline high,70.0,1.6142857142857143,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+41,Dewasa,1,1,135.0,203.0,0,1,132.0,0,0.0,1,0,1,Borderline high,67.5,1.5037037037037038,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+66,Lanjut Usia,0,0,170.0,228.0,1,1,165.0,1,1.0,1,2,3,Borderline high,85.5,1.3411764705882352,Tinggi,Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+66,Lanjut Usia,0,2,146.0,278.0,0,0,152.0,0,0.0,1,1,2,Tinggi,73.0,1.904109589041096,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+60,Lanjut Usia,1,0,117.0,230.0,1,1,160.0,1,1.4,2,2,3,Borderline high,59.2,1.9658119658119657,Tinggi,Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Ringan,0
+58,Lanjut Usia,0,3,150.0,283.0,1,0,162.0,0,1.0,2,0,2,Tinggi,75.5,1.8866666666666667,Tinggi,Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+57,Lanjut Usia,0,0,140.0,241.0,0,1,123.0,1,0.2,1,0,3,Tinggi,70.1,1.7214285714285715,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,,0
+38,Dewasa,1,2,138.0,175.0,0,1,173.0,0,0.0,2,4,2,Normal,69.0,1.2681159420289856,Tinggi,Tidak Terjadi,Tidak Bergejala,4 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+49,Dewasa,1,2,120.0,188.0,0,1,139.0,0,2.0,1,3,3,Normal,61.0,1.5666666666666667,Tinggi,Tidak Terjadi,Tidak Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Sedang,0
+55,Lanjut Usia,1,0,140.0,217.0,0,1,111.0,1,4.0,0,0,3,Borderline high,72.0,1.55,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+56,Lanjut Usia,1,3,120.0,193.0,0,0,162.0,0,1.9,1,0,3,Normal,60.95,1.6083333333333334,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Sedang,1
+48,Dewasa,1,1,130.0,245.0,0,0,180.0,0,0.2,1,0,2,Tinggi,65.1,1.8846153846153846,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,,1
+67,Lanjut Usia,1,2,152.0,212.0,0,0,150.0,0,0.8,1,0,3,Borderline high,76.4,1.394736842105263,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+57,Lanjut Usia,1,1,154.0,232.0,0,0,164.0,0,0.0,2,1,2,Borderline high,77.0,1.5064935064935066,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+29,Muda,1,1,130.0,204.0,0,0,202.0,0,0.0,2,0,2,Borderline high,65.0,1.5692307692307692,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+67,Lanjut Usia,1,0,100.0,299.0,0,0,125.0,1,0.9,1,2,2,Tinggi,50.45,2.99,Tinggi,Tidak Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Ringan,0
+59,Lanjut Usia,1,2,150.0,212.0,1,1,157.0,0,1.6,2,0,2,Borderline high,75.8,1.4133333333333333,Tinggi,Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,1
+59,Lanjut Usia,1,3,170.0,288.0,0,0,159.0,0,0.2,1,0,3,Tinggi,85.1,1.6941176470588235,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,,0
+53,Lanjut Usia,1,2,130.0,197.0,1,0,152.0,0,1.2,0,0,2,Normal,65.6,1.5153846153846153,Tinggi,Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+42,Dewasa,1,0,136.0,315.0,0,1,125.0,1,1.8,1,0,1,Tinggi,68.9,2.3161764705882355,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+37,Dewasa,0,2,120.0,215.0,0,1,170.0,0,0.0,2,0,2,Borderline high,60.0,1.7916666666666667,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+62,Lanjut Usia,0,0,160.0,164.0,0,0,145.0,0,4.0,0,3,3,Normal,82.0,1.025,Tinggi,Tidak Terjadi,Tidak Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+59,Lanjut Usia,1,0,170.0,326.0,0,0,140.0,1,3.4,0,0,3,Tinggi,86.7,1.9176470588235295,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+61,Lanjut Usia,1,0,140.0,207.0,0,0,138.0,1,1.9,2,1,3,Borderline high,70.95,1.4785714285714286,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+56,Lanjut Usia,1,0,125.0,249.0,1,0,144.0,1,1.2,1,1,2,Tinggi,63.1,1.992,Tinggi,Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+59,Lanjut Usia,1,0,140.0,177.0,0,1,162.0,1,0.0,2,1,3,Normal,70.0,1.2642857142857142,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+48,Dewasa,1,0,130.0,256.0,1,0,150.0,1,0.0,2,2,3,Tinggi,65.0,1.9692307692307693,Tinggi,Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+47,Dewasa,1,2,138.0,257.0,0,0,156.0,0,0.0,2,0,2,Tinggi,69.0,1.8623188405797102,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+48,Dewasa,1,2,124.0,255.0,1,1,175.0,0,0.0,2,2,2,Tinggi,62.0,2.056451612903226,Tinggi,Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+63,Lanjut Usia,1,0,140.0,187.0,0,0,144.0,1,4.0,2,2,3,Normal,72.0,1.3357142857142856,Tinggi,Tidak Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+52,Lanjut Usia,1,1,134.0,201.0,0,1,158.0,0,0.8,2,1,2,Borderline high,67.4,1.5,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+50,Lanjut Usia,1,2,140.0,233.0,0,1,163.0,0,0.6,1,1,3,Borderline high,70.3,1.6642857142857144,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+49,Dewasa,1,2,118.0,149.0,0,0,126.0,0,0.8,2,3,2,Normal,59.4,1.2627118644067796,Tinggi,Tidak Terjadi,Tidak Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Ringan,0
+44,Dewasa,1,1,120.0,220.0,0,1,170.0,0,0.0,2,0,2,Borderline high,60.0,1.8333333333333333,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+59,Lanjut Usia,0,0,170.0,249.0,0,1,143.0,1,0.0,1,0,2,Tinggi,85.0,1.464705882352941,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+62,Lanjut Usia,0,0,140.0,268.0,0,0,160.0,0,3.6,0,2,2,Tinggi,71.8,1.9142857142857144,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+68,Lanjut Usia,1,0,144.0,193.0,1,1,141.0,0,3.4,1,2,3,Normal,73.7,1.3402777777777777,Tinggi,Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+54,Lanjut Usia,0,2,108.0,267.0,0,0,167.0,0,0.0,2,0,2,Tinggi,54.0,2.4722222222222223,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+62,Lanjut Usia,0,0,124.0,209.0,0,1,163.0,0,0.0,2,0,2,Borderline high,62.0,1.685483870967742,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+62,Lanjut Usia,1,1,128.0,208.0,1,0,140.0,0,0.0,2,0,2,Borderline high,64.0,1.625,Tinggi,Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+45,Dewasa,0,0,138.0,236.0,0,0,152.0,1,0.2,1,0,2,Borderline high,69.1,1.710144927536232,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,,1
+57,Lanjut Usia,0,0,128.0,303.0,0,0,159.0,0,0.0,2,1,2,Tinggi,64.0,2.3671875,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+53,Lanjut Usia,1,0,123.0,282.0,0,1,95.0,1,2.0,1,2,3,Tinggi,62.5,2.292682926829268,Tinggi,Tidak Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+65,Lanjut Usia,1,0,110.0,248.0,0,0,158.0,0,0.6,2,2,1,Tinggi,55.3,2.2545454545454544,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Ringan,0
+76,Lanjut Usia,0,2,140.0,197.0,0,2,116.0,0,1.1,1,0,2,Normal,70.55,1.4071428571428573,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+43,Dewasa,0,2,122.0,213.0,0,1,165.0,0,0.2,1,0,2,Borderline high,61.1,1.7459016393442623,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,,1
+57,Lanjut Usia,1,2,150.0,126.0,1,1,173.0,0,0.2,2,1,3,Normal,75.1,0.84,Tinggi,Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,,1
+54,Lanjut Usia,1,1,108.0,309.0,0,1,156.0,0,0.0,2,0,3,Tinggi,54.0,2.861111111111111,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+52,Lanjut Usia,1,3,118.0,186.0,0,0,190.0,0,0.0,1,0,1,Normal,59.0,1.576271186440678,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+47,Dewasa,1,0,110.0,275.0,0,0,118.0,1,1.0,1,1,2,Tinggi,55.5,2.5,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Ringan,0
+51,Lanjut Usia,1,0,140.0,299.0,0,1,173.0,1,1.6,2,0,3,Tinggi,70.8,2.1357142857142857,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+62,Lanjut Usia,1,1,120.0,281.0,0,0,103.0,0,1.4,1,1,3,Tinggi,60.7,2.341666666666667,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Ringan,0
+40,Dewasa,1,0,152.0,223.0,0,1,181.0,0,0.0,2,0,3,Borderline high,76.0,1.4671052631578947,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+54,Lanjut Usia,1,0,110.0,206.0,0,0,108.0,1,0.0,1,1,2,Borderline high,55.0,1.8727272727272728,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,Tanpa ST Depression,0
+44,Dewasa,1,0,110.0,197.0,0,0,177.0,0,0.0,2,1,2,Normal,55.0,1.790909090909091,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,Tanpa ST Depression,0
+53,Lanjut Usia,1,0,142.0,226.0,0,0,111.0,1,0.0,2,0,3,Borderline high,71.0,1.591549295774648,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+57,Lanjut Usia,1,0,110.0,335.0,0,1,143.0,1,3.0,1,1,3,Tinggi,56.5,3.0454545454545454,Menengah,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Berat,0
+59,Lanjut Usia,1,2,126.0,218.0,1,1,134.0,0,2.2,1,1,1,Borderline high,64.1,1.7301587301587302,Tinggi,Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+63,Lanjut Usia,1,0,130.0,254.0,0,0,147.0,0,1.4,1,1,3,Tinggi,65.7,1.9538461538461538,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+43,Dewasa,1,0,120.0,177.0,0,0,120.0,1,2.5,1,0,3,Normal,61.25,1.475,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Sedang,0
+42,Dewasa,1,1,120.0,295.0,0,1,162.0,0,0.0,2,0,2,Tinggi,60.0,2.4583333333333335,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+60,Lanjut Usia,1,0,145.0,282.0,0,0,142.0,1,2.8,1,2,3,Tinggi,73.9,1.9448275862068964,Tinggi,Tidak Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+65,Lanjut Usia,0,2,140.0,370.375,1,0,157.0,0,0.8,2,1,2,Tinggi,70.4,2.6455357142857143,Tinggi,Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+61,Lanjut Usia,1,0,120.0,260.0,0,1,140.0,1,3.6,1,1,3,Tinggi,61.8,2.1666666666666665,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Berat,0
+60,Lanjut Usia,0,3,150.0,240.0,0,1,171.0,0,0.9,2,0,2,Tinggi,75.45,1.6,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+66,Lanjut Usia,1,0,120.0,302.0,0,0,151.0,0,0.4,1,0,2,Tinggi,60.2,2.5166666666666666,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,,1
+52,Lanjut Usia,1,2,138.0,223.0,0,1,169.0,0,0.0,2,4,2,Borderline high,69.0,1.6159420289855073,Tinggi,Tidak Terjadi,Tidak Bergejala,4 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+57,Lanjut Usia,1,0,140.0,192.0,0,1,148.0,0,0.4,1,0,1,Normal,70.2,1.3714285714285714,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,,1
+51,Lanjut Usia,0,2,130.0,256.0,0,0,149.0,0,0.5,2,0,2,Tinggi,65.25,1.9692307692307693,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+58,Lanjut Usia,0,0,170.0,225.0,1,0,146.0,1,2.8,1,2,1,Borderline high,86.4,1.3235294117647058,Tinggi,Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+64,Lanjut Usia,0,0,170.0,325.0,0,1,154.0,1,0.0,2,0,2,Tinggi,85.0,1.911764705882353,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+41,Dewasa,1,1,110.0,235.0,0,1,153.0,0,0.0,2,0,2,Borderline high,55.0,2.1363636363636362,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+57,Lanjut Usia,1,0,152.0,274.0,0,1,88.0,1,1.2,1,1,3,Tinggi,76.6,1.8026315789473684,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+63,Lanjut Usia,0,0,124.0,197.0,0,1,136.0,1,0.0,1,0,2,Normal,62.0,1.5887096774193548,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+61,Lanjut Usia,1,3,134.0,234.0,0,1,145.0,0,2.6,1,2,2,Borderline high,68.3,1.7462686567164178,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+34,Muda,1,3,118.0,182.0,0,0,174.0,0,0.0,2,0,2,Normal,59.0,1.5423728813559323,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+47,Dewasa,1,0,112.0,204.0,0,1,143.0,0,0.1,2,0,2,Borderline high,56.05,1.8214285714285714,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,,1
+40,Dewasa,1,0,110.0,167.0,0,0,114.0,1,2.0,1,0,3,Normal,56.0,1.518181818181818,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Sedang,0
+51,Lanjut Usia,0,2,120.0,295.0,0,0,157.0,0,0.6,2,0,2,Tinggi,60.3,2.4583333333333335,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,1
+41,Dewasa,1,0,110.0,172.0,0,0,158.0,0,0.0,2,0,3,Normal,55.0,1.5636363636363637,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,0
+52,Lanjut Usia,1,3,152.0,298.0,1,1,178.0,0,1.2,1,0,3,Tinggi,76.6,1.9605263157894737,Tinggi,Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+39,Dewasa,1,2,140.0,321.0,0,0,182.0,0,0.0,2,0,2,Tinggi,70.0,2.2928571428571427,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+54,Lanjut Usia,1,1,170.0,283.0,0,0,195.0,0,0.0,2,1,3,Tinggi,85.0,1.6647058823529413,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+58,Lanjut Usia,1,0,125.0,300.0,0,0,171.0,0,0.0,2,2,3,Tinggi,62.5,2.4,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+63,Lanjut Usia,1,0,130.0,330.0,1,0,132.0,1,1.8,2,3,3,Tinggi,65.9,2.5384615384615383,Tinggi,Terjadi,Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+40,Dewasa,1,3,140.0,199.0,0,1,178.0,1,1.4,2,0,3,Normal,70.7,1.4214285714285715,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+67,Lanjut Usia,0,2,115.0,370.375,0,0,160.0,0,1.6,1,0,3,Tinggi,58.3,3.2206521739130434,Menengah,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Sedang,1
+41,Dewasa,1,1,120.0,157.0,0,1,182.0,0,0.0,2,0,2,Normal,60.0,1.3083333333333333,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+77,Lanjut Usia,1,0,125.0,304.0,0,0,162.0,1,0.0,2,3,2,Tinggi,62.5,2.432,Tinggi,Tidak Terjadi,Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+51,Lanjut Usia,1,2,100.0,222.0,0,1,143.0,1,1.2,1,0,2,Borderline high,50.6,2.22,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,1
+48,Dewasa,1,0,124.0,274.0,0,0,166.0,0,0.5,1,0,3,Tinggi,62.25,2.2096774193548385,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+56,Lanjut Usia,1,0,132.0,184.0,0,0,105.0,1,2.1,1,1,1,Normal,67.05,1.393939393939394,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+57,Lanjut Usia,0,0,120.0,354.0,0,1,163.0,1,0.6,2,0,2,Tinggi,60.3,2.95,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,1
+43,Dewasa,1,2,130.0,315.0,0,1,162.0,0,1.9,2,1,2,Tinggi,65.95,2.423076923076923,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,1
+45,Dewasa,0,1,112.0,160.0,0,1,138.0,0,0.0,1,0,2,Normal,56.0,1.4285714285714286,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+43,Dewasa,1,0,150.0,247.0,0,1,171.0,0,1.5,2,0,2,Tinggi,75.75,1.6466666666666667,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,1
+56,Lanjut Usia,1,0,130.0,283.0,1,0,103.0,1,1.6,0,0,3,Tinggi,65.8,2.1769230769230767,Tinggi,Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+56,Lanjut Usia,1,1,120.0,240.0,0,1,169.0,0,0.0,0,0,2,Tinggi,60.0,2.0,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+39,Dewasa,0,2,94.0,199.0,0,1,179.0,0,0.0,2,0,2,Normal,47.0,2.117021276595745,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+54,Lanjut Usia,1,0,110.0,239.0,0,1,126.0,1,2.8,1,1,3,Borderline high,56.4,2.172727272727273,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Sedang,0
+56,Lanjut Usia,0,0,170.0,288.0,1,0,133.0,1,4.0,0,2,3,Tinggi,87.0,1.6941176470588235,Tinggi,Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+64,Lanjut Usia,1,0,120.0,246.0,0,0,96.0,1,2.2,0,1,2,Tinggi,61.1,2.05,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Sedang,0
+56,Lanjut Usia,0,0,134.0,370.375,0,0,150.0,1,1.9,1,2,3,Tinggi,67.95,2.763992537313433,Tinggi,Tidak Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+64,Lanjut Usia,1,3,110.0,211.0,0,0,144.0,1,1.8,1,0,2,Borderline high,55.9,1.9181818181818182,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Sedang,1
+60,Lanjut Usia,1,0,140.0,293.0,0,0,170.0,0,1.2,1,2,3,Tinggi,70.6,2.092857142857143,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+42,Dewasa,1,2,130.0,180.0,0,1,150.0,0,0.0,2,0,2,Normal,65.0,1.3846153846153846,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+45,Dewasa,1,1,128.0,308.0,0,0,170.0,0,0.0,2,0,2,Tinggi,64.0,2.40625,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+57,Lanjut Usia,1,0,165.0,289.0,1,0,124.0,0,1.0,1,3,3,Tinggi,83.0,1.7515151515151515,Tinggi,Terjadi,Tidak Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+64,Lanjut Usia,1,2,125.0,309.0,0,1,131.0,1,1.8,1,0,3,Tinggi,63.4,2.472,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+41,Dewasa,1,2,112.0,250.0,0,1,179.0,0,0.0,2,0,2,Tinggi,56.0,2.232142857142857,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+56,Lanjut Usia,1,1,130.0,221.0,0,0,163.0,0,0.0,2,0,3,Borderline high,65.0,1.7,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+69,Lanjut Usia,1,3,160.0,234.0,1,0,131.0,0,0.1,1,1,2,Borderline high,80.05,1.4625,Tinggi,Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,,1
+67,Lanjut Usia,1,0,160.0,286.0,0,0,108.0,1,1.5,1,3,2,Tinggi,80.75,1.7875,Tinggi,Tidak Terjadi,Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+58,Lanjut Usia,1,0,100.0,234.0,0,1,156.0,0,0.1,2,1,3,Borderline high,50.05,2.34,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,,0
+45,Dewasa,1,0,115.0,260.0,0,0,185.0,0,0.0,2,0,2,Tinggi,57.5,2.260869565217391,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+60,Lanjut Usia,0,2,102.0,318.0,0,1,160.0,0,0.0,2,1,2,Tinggi,51.0,3.1176470588235294,Menengah,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+50,Lanjut Usia,1,0,144.0,200.0,0,0,126.0,1,0.9,1,0,3,Borderline high,72.45,1.3888888888888888,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+64,Lanjut Usia,1,3,170.0,227.0,0,0,155.0,0,0.6,1,0,3,Borderline high,85.3,1.3352941176470587,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+42,Dewasa,1,3,148.0,244.0,0,0,178.0,0,0.8,2,2,2,Tinggi,74.4,1.6486486486486487,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+42,Dewasa,1,2,120.0,240.0,1,1,194.0,0,0.8,0,0,3,Tinggi,60.4,2.0,Tinggi,Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,1
+50,Lanjut Usia,1,0,150.0,243.0,0,0,128.0,0,2.6,1,0,3,Tinggi,76.3,1.62,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+49,Dewasa,1,1,130.0,266.0,0,1,171.0,0,0.6,2,0,2,Tinggi,65.3,2.046153846153846,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+65,Lanjut Usia,1,0,135.0,254.0,0,0,127.0,0,2.8,1,1,3,Tinggi,68.9,1.8814814814814815,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+46,Dewasa,1,0,140.0,311.0,0,1,120.0,1,1.8,1,2,3,Tinggi,70.9,2.2214285714285715,Tinggi,Tidak Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+57,Lanjut Usia,0,1,130.0,236.0,0,0,174.0,0,0.0,1,1,2,Borderline high,65.0,1.8153846153846154,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+51,Lanjut Usia,1,0,140.0,261.0,0,0,186.0,1,0.0,2,0,2,Tinggi,70.0,1.8642857142857143,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+54,Lanjut Usia,1,2,150.0,232.0,0,0,165.0,0,1.6,2,0,3,Borderline high,75.8,1.5466666666666666,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,1
+44,Dewasa,0,2,118.0,242.0,0,1,149.0,0,0.3,1,1,2,Tinggi,59.15,2.0508474576271185,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,,1
+52,Lanjut Usia,1,1,128.0,205.0,1,1,184.0,0,0.0,2,0,2,Borderline high,64.0,1.6015625,Tinggi,Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+56,Lanjut Usia,1,1,120.0,236.0,0,1,178.0,0,0.8,2,0,2,Borderline high,60.4,1.9666666666666666,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,1
+60,Lanjut Usia,1,0,125.0,258.0,0,0,141.0,1,2.8,1,1,3,Tinggi,63.9,2.064,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+41,Dewasa,0,1,126.0,306.0,0,1,163.0,0,0.0,2,0,2,Tinggi,63.0,2.4285714285714284,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+49,Dewasa,0,0,130.0,269.0,0,1,163.0,0,0.0,2,0,2,Tinggi,65.0,2.0692307692307694,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+57,Lanjut Usia,1,1,124.0,261.0,0,1,141.0,0,0.3,2,0,3,Tinggi,62.15,2.1048387096774195,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,,0
+62,Lanjut Usia,0,0,150.0,244.0,0,1,154.0,1,1.4,1,0,2,Tinggi,75.7,1.6266666666666667,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+54,Lanjut Usia,0,1,132.0,288.0,1,0,159.0,1,0.0,2,1,2,Tinggi,66.0,2.1818181818181817,Tinggi,Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+51,Lanjut Usia,1,2,125.0,245.0,1,0,166.0,0,2.4,1,0,2,Tinggi,63.7,1.96,Tinggi,Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,1
+44,Dewasa,1,1,130.0,219.0,0,0,188.0,0,0.0,2,0,2,Borderline high,65.0,1.6846153846153846,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+39,Dewasa,0,2,138.0,220.0,0,1,152.0,0,0.0,1,0,2,Borderline high,69.0,1.5942028985507246,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+55,Lanjut Usia,1,0,132.0,353.0,0,1,132.0,1,1.2,1,1,3,Tinggi,66.6,2.6742424242424243,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+35,Dewasa,1,0,120.0,198.0,0,1,130.0,1,1.6,1,0,3,Normal,60.8,1.65,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Sedang,0
+62,Lanjut Usia,0,0,140.0,370.375,0,0,157.0,0,1.2,1,0,2,Tinggi,70.6,2.6455357142857143,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+35,Dewasa,0,0,138.0,183.0,0,1,182.0,0,1.4,2,0,2,Normal,69.7,1.326086956521739,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+38,Dewasa,1,3,120.0,231.0,0,1,182.0,1,3.8,1,0,3,Borderline high,61.9,1.925,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Berat,0
+44,Dewasa,1,2,120.0,226.0,0,1,169.0,0,0.0,2,0,2,Borderline high,60.0,1.8833333333333333,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+48,Dewasa,1,0,122.0,222.0,0,0,186.0,0,0.0,2,0,2,Borderline high,61.0,1.819672131147541,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+67,Lanjut Usia,1,0,120.0,237.0,0,1,84.125,0,1.0,1,0,2,Borderline high,60.5,1.975,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,0
+58,Lanjut Usia,1,2,132.0,224.0,0,0,173.0,0,3.2,2,2,3,Borderline high,67.6,1.696969696969697,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+71,Lanjut Usia,0,2,110.0,265.0,1,0,130.0,0,0.0,2,1,2,Tinggi,55.0,2.409090909090909,Tinggi,Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+43,Dewasa,1,0,110.0,211.0,0,1,161.0,0,0.0,2,0,3,Borderline high,55.0,1.9181818181818182,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+44,Dewasa,1,1,120.0,263.0,0,1,173.0,0,0.0,2,0,3,Tinggi,60.0,2.191666666666667,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+66,Lanjut Usia,1,0,160.0,228.0,0,0,138.0,0,2.3,2,0,1,Borderline high,81.15,1.425,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,1
+57,Lanjut Usia,1,0,132.0,207.0,0,1,168.0,1,0.0,2,0,3,Borderline high,66.0,1.5681818181818181,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+41,Dewasa,0,1,105.0,198.0,0,1,168.0,0,0.0,2,1,2,Normal,52.5,1.8857142857142857,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+45,Dewasa,0,1,130.0,234.0,0,0,175.0,0,0.6,1,0,2,Borderline high,65.3,1.8,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+35,Dewasa,1,1,122.0,192.0,0,1,174.0,0,0.0,2,0,2,Normal,61.0,1.5737704918032787,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+41,Dewasa,0,1,130.0,204.0,0,0,172.0,0,1.4,2,0,2,Borderline high,65.7,1.5692307692307692,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+64,Lanjut Usia,0,2,140.0,313.0,0,1,133.0,0,0.2,2,0,3,Tinggi,70.1,2.2357142857142858,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,,1
+71,Lanjut Usia,0,1,160.0,302.0,0,1,162.0,0,0.4,2,2,2,Tinggi,80.2,1.8875,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,,1
+58,Lanjut Usia,0,2,120.0,340.0,0,1,172.0,0,0.0,2,0,2,Tinggi,60.0,2.8333333333333335,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+58,Lanjut Usia,1,0,128.0,259.0,0,0,130.0,1,3.0,1,2,3,Tinggi,65.5,2.0234375,Tinggi,Tidak Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+61,Lanjut Usia,1,2,150.0,243.0,1,1,137.0,1,1.0,1,0,2,Tinggi,75.5,1.62,Tinggi,Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+58,Lanjut Usia,1,0,150.0,270.0,0,0,111.0,1,0.8,2,0,3,Tinggi,75.4,1.8,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+52,Lanjut Usia,1,1,120.0,325.0,0,1,172.0,0,0.2,2,0,2,Tinggi,60.1,2.7083333333333335,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,,1
+46,Dewasa,0,1,105.0,204.0,0,1,172.0,0,0.0,2,0,2,Borderline high,52.5,1.9428571428571428,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+51,Lanjut Usia,1,2,94.0,227.0,0,1,154.0,1,0.0,2,1,3,Borderline high,47.0,2.4148936170212765,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+52,Lanjut Usia,0,2,136.0,196.0,0,0,169.0,0,0.1,1,0,2,Normal,68.05,1.4411764705882353,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,,1
+62,Lanjut Usia,1,0,120.0,267.0,0,1,99.0,1,1.8,1,2,3,Tinggi,60.9,2.225,Tinggi,Tidak Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Sedang,0
+56,Lanjut Usia,0,1,140.0,294.0,0,0,153.0,0,1.3,1,0,2,Tinggi,70.65,2.1,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+74,Lanjut Usia,0,1,120.0,269.0,0,0,121.0,1,0.2,2,1,2,Tinggi,60.1,2.2416666666666667,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,,1
+53,Lanjut Usia,0,2,128.0,216.0,0,0,115.0,0,0.0,2,0,0,Borderline high,64.0,1.6875,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+53,Lanjut Usia,0,0,130.0,264.0,0,0,143.0,0,0.4,1,0,2,Tinggi,65.2,2.0307692307692307,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,,1
+48,Dewasa,0,2,130.0,275.0,0,1,139.0,0,0.2,2,0,2,Tinggi,65.1,2.1153846153846154,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,,1
+45,Dewasa,1,0,142.0,309.0,0,0,147.0,1,0.0,1,3,3,Tinggi,71.0,2.176056338028169,Tinggi,Tidak Terjadi,Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+66,Lanjut Usia,1,1,160.0,246.0,0,1,120.0,1,0.0,1,3,1,Tinggi,80.0,1.5375,Tinggi,Tidak Terjadi,Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+57,Lanjut Usia,1,0,150.0,276.0,0,0,112.0,1,0.6,1,1,1,Tinggi,75.3,1.84,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+70,Lanjut Usia,1,0,130.0,322.0,0,0,109.0,0,2.4,1,3,2,Tinggi,66.2,2.476923076923077,Tinggi,Tidak Terjadi,Tidak Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+63,Lanjut Usia,0,0,108.0,269.0,0,1,169.0,1,1.8,1,2,2,Tinggi,54.9,2.490740740740741,Tinggi,Tidak Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Sedang,0
+37,Dewasa,1,2,130.0,250.0,0,1,187.0,0,3.5,0,0,2,Tinggi,66.75,1.9230769230769231,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,1
+54,Lanjut Usia,0,2,110.0,214.0,0,1,158.0,0,1.6,1,0,2,Borderline high,55.8,1.9454545454545455,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Sedang,1
+60,Lanjut Usia,1,0,130.0,206.0,0,0,132.0,1,2.4,1,2,3,Borderline high,66.2,1.5846153846153845,Tinggi,Tidak Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+54,Lanjut Usia,1,2,125.0,273.0,0,0,152.0,0,0.5,0,1,2,Tinggi,62.75,2.184,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+60,Lanjut Usia,1,0,130.0,253.0,0,1,144.0,1,1.4,2,1,3,Tinggi,65.7,1.9461538461538461,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+65,Lanjut Usia,0,2,155.0,269.0,0,1,148.0,0,0.8,2,0,2,Tinggi,77.9,1.735483870967742,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+52,Lanjut Usia,1,2,170.0,199.0,1,1,162.0,0,0.5,2,0,3,Normal,85.25,1.1705882352941177,Tinggi,Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+43,Dewasa,1,0,132.0,247.0,1,0,143.0,1,0.1,1,4,3,Tinggi,66.05,1.871212121212121,Tinggi,Terjadi,Bergejala,4 pembuluh darah terwarnai Fluoroskopi,Hipertensi,,0
+62,Lanjut Usia,0,2,130.0,263.0,0,1,97.0,0,1.2,1,1,3,Tinggi,65.6,2.023076923076923,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+57,Lanjut Usia,1,0,110.0,201.0,0,1,126.0,1,1.5,1,0,1,Borderline high,55.75,1.8272727272727274,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Sedang,1
+46,Dewasa,0,0,138.0,243.0,0,0,152.0,1,0.0,1,0,2,Tinggi,69.0,1.7608695652173914,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+59,Lanjut Usia,1,0,164.0,176.0,1,0,90.0,0,1.0,1,2,1,Normal,82.5,1.0731707317073171,Tinggi,Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+59,Lanjut Usia,1,3,134.0,204.0,0,1,162.0,0,0.8,2,2,2,Borderline high,67.4,1.5223880597014925,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+62,Lanjut Usia,1,2,130.0,231.0,0,1,146.0,0,1.8,1,3,3,Borderline high,65.9,1.7769230769230768,Tinggi,Tidak Terjadi,Tidak Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,1
+53,Lanjut Usia,1,2,130.0,246.0,1,0,173.0,0,0.0,2,3,2,Tinggi,65.0,1.8923076923076922,Tinggi,Terjadi,Tidak Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+58,Lanjut Usia,1,2,112.0,230.0,0,0,165.0,0,2.5,1,1,3,Borderline high,57.25,2.0535714285714284,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Sedang,0
+48,Dewasa,1,1,110.0,229.0,0,1,168.0,0,1.0,0,0,3,Borderline high,55.5,2.081818181818182,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,0
+58,Lanjut Usia,1,2,105.0,240.0,0,0,154.0,1,0.6,1,0,3,Tinggi,52.8,2.2857142857142856,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,1
+51,Lanjut Usia,1,2,110.0,175.0,0,1,123.0,0,0.6,2,0,2,Normal,55.3,1.5909090909090908,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,1
+58,Lanjut Usia,1,1,120.0,284.0,0,0,160.0,0,1.8,1,0,2,Tinggi,60.9,2.3666666666666667,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Sedang,0
+46,Dewasa,0,2,142.0,177.0,0,0,160.0,1,1.4,0,0,2,Normal,71.7,1.2464788732394365,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+59,Lanjut Usia,1,1,140.0,221.0,0,1,164.0,1,0.0,2,0,2,Borderline high,70.0,1.5785714285714285,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+64,Lanjut Usia,0,0,130.0,303.0,0,1,122.0,0,2.0,1,2,2,Tinggi,66.0,2.330769230769231,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,1
+58,Lanjut Usia,1,0,146.0,218.0,0,1,105.0,0,2.0,1,1,3,Borderline high,74.0,1.4931506849315068,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+59,Lanjut Usia,1,0,110.0,239.0,0,0,142.0,1,1.2,1,1,3,Borderline high,55.6,2.172727272727273,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Ringan,0
+35,Dewasa,1,0,126.0,282.0,0,0,156.0,1,0.0,2,0,3,Tinggi,63.0,2.238095238095238,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+63,Lanjut Usia,1,3,145.0,233.0,1,0,150.0,0,2.3,0,0,1,Borderline high,73.65,1.606896551724138,Tinggi,Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,1
+45,Dewasa,1,3,110.0,264.0,0,1,132.0,0,1.2,1,0,3,Tinggi,55.6,2.4,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,0
+68,Lanjut Usia,1,2,170.0,274.0,1,0,150.0,1,1.6,1,0,3,Tinggi,85.8,1.611764705882353,Tinggi,Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+70,Lanjut Usia,1,1,156.0,245.0,0,0,143.0,0,0.0,2,0,2,Tinggi,78.0,1.5705128205128205,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+42,Dewasa,0,0,102.0,265.0,0,0,122.0,0,0.6,1,0,2,Tinggi,51.3,2.5980392156862746,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,1
+51,Lanjut Usia,0,0,130.0,305.0,0,1,142.0,1,1.2,1,0,3,Tinggi,65.6,2.3461538461538463,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+54,Lanjut Usia,0,2,160.0,201.0,0,1,163.0,0,0.0,2,1,2,Borderline high,80.0,1.25625,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+57,Lanjut Usia,1,2,150.0,168.0,0,1,174.0,0,1.6,2,0,2,Normal,75.8,1.12,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,1
+47,Dewasa,1,2,108.0,243.0,0,1,152.0,0,0.0,2,0,2,Tinggi,54.0,2.25,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,0
+65,Lanjut Usia,0,0,150.0,225.0,0,0,114.0,0,1.0,1,3,3,Borderline high,75.5,1.5,Tinggi,Tidak Terjadi,Tidak Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+41,Dewasa,0,2,112.0,268.0,0,0,172.0,1,0.0,2,0,2,Tinggi,56.0,2.392857142857143,Tinggi,Tidak Terjadi,Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+67,Lanjut Usia,1,0,120.0,229.0,0,0,129.0,1,2.6,1,2,3,Borderline high,61.3,1.9083333333333334,Tinggi,Tidak Terjadi,Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Sedang,0
+47,Dewasa,1,2,130.0,253.0,0,1,179.0,0,0.0,2,0,2,Tinggi,65.0,1.9461538461538461,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+52,Lanjut Usia,1,0,112.0,230.0,0,1,160.0,0,0.0,2,1,2,Borderline high,56.0,2.0535714285714284,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,Tanpa ST Depression,0
+63,Lanjut Usia,0,0,150.0,370.375,0,0,154.0,0,4.0,1,3,3,Tinggi,77.0,2.4691666666666667,Tinggi,Tidak Terjadi,Tidak Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+49,Dewasa,0,1,134.0,271.0,0,1,162.0,0,0.0,1,0,2,Tinggi,67.0,2.0223880597014925,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+69,Lanjut Usia,1,2,140.0,254.0,0,0,146.0,0,2.0,1,3,3,Tinggi,71.0,1.8142857142857143,Tinggi,Tidak Terjadi,Tidak Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+58,Lanjut Usia,0,0,130.0,197.0,0,1,131.0,0,0.6,1,0,2,Normal,65.3,1.5153846153846153,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+41,Dewasa,1,2,130.0,214.0,0,0,168.0,0,2.0,1,0,2,Borderline high,66.0,1.646153846153846,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,1
+58,Lanjut Usia,1,0,128.0,216.0,0,0,131.0,1,2.2,1,3,3,Borderline high,65.1,1.6875,Tinggi,Tidak Terjadi,Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+59,Lanjut Usia,1,0,135.0,234.0,0,1,161.0,0,0.5,1,0,3,Borderline high,67.75,1.7333333333333334,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+54,Lanjut Usia,1,0,140.0,239.0,0,1,160.0,0,1.2,2,0,2,Borderline high,70.6,1.707142857142857,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+44,Dewasa,1,0,112.0,290.0,0,0,153.0,0,0.0,2,1,2,Tinggi,56.0,2.5892857142857144,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,Tanpa ST Depression,0
+58,Lanjut Usia,1,1,125.0,220.0,0,1,144.0,0,0.4,1,4,3,Borderline high,62.7,1.76,Tinggi,Tidak Terjadi,Tidak Bergejala,4 pembuluh darah terwarnai Fluoroskopi,Hipertensi,,1
+67,Lanjut Usia,0,2,152.0,277.0,0,1,172.0,0,0.0,2,1,2,Tinggi,76.0,1.8223684210526316,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+59,Lanjut Usia,1,3,170.0,270.0,0,0,145.0,0,4.0,0,0,3,Tinggi,87.0,1.588235294117647,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,1
+60,Lanjut Usia,0,0,150.0,258.0,0,0,157.0,0,2.6,1,2,3,Tinggi,76.3,1.72,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+53,Lanjut Usia,0,0,138.0,234.0,0,0,160.0,0,0.0,2,0,2,Borderline high,69.0,1.6956521739130435,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+50,Lanjut Usia,0,2,120.0,219.0,0,1,158.0,0,1.6,1,0,2,Borderline high,60.8,1.825,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Sedang,1
+44,Dewasa,1,2,140.0,235.0,0,0,180.0,0,0.0,2,0,2,Borderline high,70.0,1.6785714285714286,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+68,Lanjut Usia,1,2,118.0,277.0,0,1,151.0,0,1.0,2,1,3,Tinggi,59.5,2.347457627118644,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Ringan,1
+67,Lanjut Usia,1,0,125.0,254.0,1,1,163.0,0,0.2,1,2,3,Tinggi,62.6,2.032,Tinggi,Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,,0
+50,Lanjut Usia,0,0,110.0,254.0,0,0,159.0,0,0.0,2,0,2,Tinggi,55.0,2.309090909090909,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+54,Lanjut Usia,0,2,135.0,304.0,1,1,170.0,0,0.0,2,0,2,Tinggi,67.5,2.251851851851852,Tinggi,Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+46,Dewasa,1,1,101.0,197.0,1,1,156.0,0,0.0,2,0,3,Normal,50.5,1.9504950495049505,Tinggi,Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+55,Lanjut Usia,1,1,130.0,262.0,0,1,155.0,0,0.0,2,0,2,Tinggi,65.0,2.0153846153846153,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+64,Lanjut Usia,1,0,145.0,212.0,0,0,132.0,0,2.0,1,2,1,Borderline high,73.5,1.4620689655172414,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+63,Lanjut Usia,0,1,140.0,195.0,0,1,179.0,0,0.0,2,2,2,Normal,70.0,1.3928571428571428,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,1
+66,Lanjut Usia,1,0,112.0,212.0,0,0,132.0,1,0.1,2,1,2,Borderline high,56.05,1.8928571428571428,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,,0
+55,Lanjut Usia,0,0,128.0,205.0,0,2,130.0,1,2.0,1,1,3,Borderline high,65.0,1.6015625,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,0
+43,Dewasa,1,0,115.0,303.0,0,1,181.0,0,1.2,1,0,2,Tinggi,58.1,2.634782608695652,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,1
+69,Lanjut Usia,0,3,140.0,239.0,0,1,151.0,0,1.8,2,2,2,Borderline high,70.9,1.707142857142857,Tinggi,Tidak Terjadi,Tidak Bergejala,2 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,1
+65,Lanjut Usia,1,3,138.0,282.0,1,0,174.0,0,1.4,1,1,2,Tinggi,69.7,2.0434782608695654,Tinggi,Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,0
+61,Lanjut Usia,1,0,138.0,166.0,0,0,125.0,1,3.6,1,1,2,Normal,70.8,1.2028985507246377,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,ST Depression Berat,0
+65,Lanjut Usia,1,0,120.0,177.0,0,1,140.0,0,0.4,2,0,3,Normal,60.2,1.475,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,,1
+66,Lanjut Usia,0,3,150.0,226.0,0,1,114.0,0,2.6,0,0,2,Borderline high,76.3,1.5066666666666666,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Sedang,1
+55,Lanjut Usia,0,1,135.0,250.0,0,0,161.0,0,1.4,1,0,2,Tinggi,68.2,1.8518518518518519,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,ST Depression Ringan,1
+39,Dewasa,1,0,118.0,219.0,0,1,140.0,0,1.2,1,0,3,Borderline high,59.6,1.8559322033898304,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,0
+60,Lanjut Usia,0,2,120.0,178.0,1,1,96.0,0,0.0,2,0,2,Normal,60.0,1.4833333333333334,Tinggi,Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,Tanpa ST Depression,1
+52,Lanjut Usia,1,0,108.0,233.0,1,1,147.0,0,0.1,2,3,3,Borderline high,54.05,2.1574074074074074,Tinggi,Terjadi,Tidak Bergejala,3 pembuluh darah terwarnai Fluoroskopi,Normal,,1
+64,Lanjut Usia,1,2,140.0,335.0,0,1,158.0,0,0.0,2,0,2,Tinggi,70.0,2.392857142857143,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+68,Lanjut Usia,0,2,120.0,211.0,0,0,115.0,0,1.5,1,0,2,Borderline high,60.75,1.7583333333333333,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Sedang,1
+44,Dewasa,0,2,108.0,141.0,0,1,175.0,0,0.6,1,0,2,Normal,54.3,1.3055555555555556,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Normal,ST Depression Ringan,1
+52,Lanjut Usia,1,0,128.0,255.0,0,1,161.0,1,0.0,2,1,3,Tinggi,64.0,1.9921875,Tinggi,Tidak Terjadi,Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+59,Lanjut Usia,1,3,160.0,273.0,0,0,125.0,0,0.0,2,0,2,Tinggi,80.0,1.70625,Tinggi,Tidak Terjadi,Tidak Bergejala,Tidak ada pembuluh darah yang terwarnai Fluoroskopi,Hipertensi,Tanpa ST Depression,0
+54,Lanjut Usia,1,0,120.0,188.0,0,1,113.0,0,1.4,1,1,3,Normal,60.7,1.5666666666666667,Tinggi,Tidak Terjadi,Tidak Bergejala,1 pembuluh darah terwarnai Fluoroskopi,Normal,ST Depression Ringan,0
